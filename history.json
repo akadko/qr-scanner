@@ -1,0 +1,16 @@
+{
+	"history": [
+		{
+			"serialNumber":"12345",
+			"passed":true		
+		},
+		{
+			"serialNumber":"2432",
+			"passed":false	
+		},
+		{
+			"serialNumber":"42",
+			"passed":true	
+		}
+	]
+}
